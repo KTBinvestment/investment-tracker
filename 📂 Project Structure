@@ -1,0 +1,7 @@
+investment-tracker/
+│
+├── main.py               # Main script entry point
+├── data/                 # CSV or Excel data files
+├── utils/                # Helper functions and modules
+├── requirements.txt      # Project dependencies
+└── README.md             # Project documentation
